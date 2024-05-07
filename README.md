@@ -10,13 +10,13 @@
 
 가장 단순한 형태의 치환 암호로, 알파벳의 각 문자를 다른 문자로 일대일 대응시켜 치환합니다. 그 예시로 카이사르 암호(Caesar Cipher)가 있습니다.&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>카이사르 암호(Caesar Cipher) </p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>카이사르 암호(Caesar Cipher) </p></figcaption></figure>
 
 2. 다중 문자 치환 암호&#x20;
 
 평문의 문자 블록을 다른 문자 블록으로 치환하는 암호로, 한 글자씩 치환하는 단일 문자 치환보다 복잡하고 해독하기 어렵습니다. 그 예시로 폴리비우스 사각형(Polyblus Wquare)이 있습니다.&#x20;
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>폴리비우스 사각형(Polybius Square)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>폴리비우스 사각형(Polybius Square)</p></figcaption></figure>
 
 
 
@@ -28,7 +28,7 @@
 
 평문의 문자를 일정한 규칙에 따라 위치를 변경합니다. 예를 들어 아래 그림과 같이 열 단위로 문자를 재배열할 수 있습니다.&#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>단순 전치 암호</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>단순 전치 암호</p></figcaption></figure>
 
 2. 스키테일 암호
 
